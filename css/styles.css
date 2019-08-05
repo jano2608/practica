@@ -1,0 +1,28 @@
+
+body {
+  background-color: black;
+
+}
+h3{
+  color: white;
+}
+p{
+  color:white
+}
+#Copyright{
+    color:black
+}
+#banda_1{
+  max-width:570px;
+
+}
+#card_1{
+
+background-image: url("../img/banda_1.jpg");
+height: 400px;
+width: 620px;
+}
+.col-sm-6{
+  max-width: 600px;
+  max-height: 500px;
+}
